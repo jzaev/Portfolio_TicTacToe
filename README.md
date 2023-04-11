@@ -1,2 +1,2 @@
-# Portfolio_TicTacToe
-Text version TicTacToe
+# Tic-Tac-Toe
+Simple text version TicTacToe
